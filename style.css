@@ -1,0 +1,25 @@
+.box{
+    height: 100px;
+    background-color: gold;
+}
+
+.box1{
+    height: 40px;
+    background-color: red;
+}
+.box2{
+    height: 40px;
+    background-color: black;
+}
+.box3{
+    height: 40px;
+    background-color: greenyellow;
+}
+.box4{
+    height: 40px;
+    background-color: green;
+}
+.box5{
+    height: 40px;
+    background-color: aqua;
+}
